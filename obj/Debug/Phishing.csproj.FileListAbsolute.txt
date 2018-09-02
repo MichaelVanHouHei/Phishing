@@ -1,0 +1,10 @@
+E:\C#\Phishing\Phishing\obj\Debug\Phishing.Form1.resources
+E:\C#\Phishing\Phishing\obj\Debug\Phishing.Properties.Resources.resources
+E:\C#\Phishing\Phishing\obj\Debug\Phishing.csproj.GenerateResource.Cache
+E:\C#\Phishing\Phishing\bin\Debug\Phishing.exe
+E:\C#\Phishing\Phishing\bin\Debug\Phishing.pdb
+E:\C#\Phishing\Phishing\obj\Debug\Phishing.exe
+E:\C#\Phishing\Phishing\obj\Debug\Phishing.pdb
+E:\C#\Phishing\Phishing\bin\Debug\HtmlAgilityPack.dll
+E:\C#\Phishing\Phishing\bin\Debug\HtmlAgilityPack.pdb
+E:\C#\Phishing\Phishing\obj\Debug\Phishing.csprojResolveAssemblyReference.cache
